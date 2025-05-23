@@ -2,17 +2,17 @@
   "bot": {
     "prefix": ".",
     "listenEvents": true,
-    "selfListen": false,
+    "selfListen": true,
     "forceLogin": true,
-    "botName": "NexaSim V2",
-    "ownerName": "Hridoy",
-    "ownerUid": "61552837791926",
+    "botName": "Luna",
+    "ownerName": "Traf",
+    "ownerUid": "100081074084324",
     "adminUids": [
-      "61552837791926"
+      "100081074084324"
     ],
     "login": {
-      "username": "your_username_here",
-      "password": "your_password_here"
+      "username": "Lucida.Lunar@gmail.com",
+      "password": "PanPan_8027?"
     }
   },
   "logging": {
